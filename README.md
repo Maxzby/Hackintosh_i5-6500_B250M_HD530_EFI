@@ -1,0 +1,1 @@
+# Hackintosh_i5-6500_B250M_HD530_EFI
