@@ -21,9 +21,9 @@
 
 添加英特尔（intel）蓝牙驱动，（**IntelBluetoothFirmware**）[Github链接](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 
-### 核显驱动
 
-## （以下为原作者编写内容，稍作修改）
+
+## 核显驱动（以下为原作者编写内容，稍作修改）
 
 显示器为4k显示器，主板Gigabyte B250M-D3H支持4k@60分辨率的DP口显示输出。
 
@@ -38,7 +38,9 @@ B250系主板一般配7代 intel cpu，如 i5-7500，核显型号为 HD 630。Gi
 
 以上设置已经配置在 EFI 文件中，同型号HD 530 直接使用即可，不需要另外设置。
 
-（实测在**macOS Catalina10.15.1 **B150M-VP-CF只有VGA的情况下无任何设置成功驱动核显显存1536MB）
+实测在**macOS Catalina10.15.1 **B150M-VP-CF只有VGA的情况下无任何设置成功驱动核显显存1536MB
+
+
 
 ![](https://github.com/wonpn/Hackintosh_i5-6500_B250M_HD530_EFI/blob/main/info.png)
 
