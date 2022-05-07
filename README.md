@@ -11,7 +11,7 @@
 | 机型	| Macmini8,1 |
 | 平台ID | 0x193B0005|
 | 显示器| 1080p(1920 × 1080)VGA |
-| 系统 | **macOS Catalina10.15.1** |
+| 系统 | **macOS Catalina10.15.7** |
 
 **本文基于原作者 [Wonpn](https://github.com/wonpn)的[Hackintosh_i5-6500_B250M_HD530_EFI](https://github.com/wonpn/Hackintosh_i5-6500_B250M_HD530_EFI)修改而成适配i3-6100_B150M_HD530**
 
@@ -38,7 +38,7 @@ B250系主板一般配7代 intel cpu，如 i5-7500，核显型号为 HD 630。Gi
 
 以上设置已经配置在 EFI 文件中，同型号HD 530 直接使用即可，不需要另外设置。
 
-实测在**macOS Catalina10.15.1 **B150M-VP-CF只有VGA的情况下无任何设置成功驱动核显显存1536MB
+实测在**macOS Catalina10.15.7**B150M-VP-CF只有VGA的情况下无任何设置成功驱动核显显存1536MB
 
 
 
